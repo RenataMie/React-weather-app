@@ -1,5 +1,6 @@
 import React from "react";
 import Forecast from "./Forecast";
+import "./index.css";
 
 
 function App() {
